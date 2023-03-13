@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет, я Fullstack-Developer👋
 
 <!--
 **Andkhiz/Andkhiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
