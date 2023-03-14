@@ -2,7 +2,7 @@
 ---
 <h3>Stack</h3>
 
-<p dir="auto">
+<div dir="auto" margin-buttom=0>
  <img src="https://img.shields.io/badge/Oracle-FF0000?style=flat-square-endpoint&logo=oracle&logoColor=FF0000&labelColor=FFF"
       alt="Oracle" style="max-width: 100%;"> 
  <img src="https://img.shields.io/badge/Delphi-red?style=flat-square-endpoint&logo=delphi&logoColor=FF0000&labelColor=FFF"
@@ -17,7 +17,7 @@
        alt="CSS" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/React-2E4C6D?style=flat-square-endpoint&amp;logo=react&amp;logoColor="
       alt="React" style="max-width: 100%;">
- </p>
+ </div>
  <p>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-6E85B2?style=flat-square-endpoint&amp;logo=visualstudiocode&amp;logoColor=blue&amp;labelColor=EADEDE"
       alt="Visual Studio Code" style="max-width: 100%;">
