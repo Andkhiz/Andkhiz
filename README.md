@@ -11,6 +11,11 @@
 ---
 
 <h3>Contacts</h3>
+<p>
+ <a href="https://t.me/andkhiz"><img src="https://img.shields.io/badge/Telegram-%40andkhiz-blue?style=flat-square-endpoint&logo=telegram&logoColor=blue&labelColor=EEEEEE" alt="Telegram"></a>
+ <a href="mailto:andkhiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-andkhiz@gmail.com-red?style=flat-square-endpoint&logo=gmail&logoColor=red&labelColor=FFFFFF" alt="Gmail"></a>
+ <a href="https://discordapp.com/users/1016048123254153237"><img src="https://img.shields.io/badge/Discord-%40Andkhiz%234050-blue?style=flat-square-endpoint&amp;logo=discord&amp;logoColor=blue&amp;labelColor=EEEEEE&amp;style=%22max-width:%20100%;" alt="Discord"></a>
+</p>
 
 ---
 <h3>Projects<h3/>
