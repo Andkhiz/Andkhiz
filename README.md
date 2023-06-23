@@ -45,6 +45,7 @@
   <h4>Некоторые из моих проектов:</h4>
   <h4>
     <ul>
+      <li>(Express) Плагин ChatGPT для построение <a href="https://github.com/Andkhiz/ChatGPTPlagin-Landing/tree/main">Landing page</a> на JavaScript</li>
       <li>(SPA) Приложение-викторина <a href="https://song-bird-andkhiz.netlify.app/">Song bird</a> отгадай птиц по их голосам на JavaScript (личный)</li>
       <li>(SPA) Приложение <a href="https://andkhiz-online-store.netlify.app/">Online Store</a> онлайн магазин на React & TypeScript (командный)</li>
       <li>(SPA) Игра <a href="https://rs-clone-exploding-kittens.netlify.app/">Взрывные котята</a> на React & TypeScript (командный)</li>
